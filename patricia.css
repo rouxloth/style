@@ -4,9 +4,9 @@ cite, input, textarea, .boutons { display:block; }
 body { background: #7ca83f; color: #20211f; }
 header img { width: 17%; margin:1%; }
 cite { font-size:3.43vw; margin:-6ex 7em 0; }
-.pagetitres { font-size:2.54ex; margin:4ex auto; text-align:center; }
+.pagetitre { font-size:2.54ex; margin:4ex auto; text-align:center; }
 
-#ecrirebouton { border: thick double #32a1ce; background:pink; font-size:2.54ex; margin:5ex auto; padding:.98ex .98em; width: 25%; }
+.ecrirebouton { border: thick double #32a1ce; background:#f19a60; font-size:2.54ex; margin:5ex auto; padding:.98ex .98em; width: 25%; }
 
 form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
