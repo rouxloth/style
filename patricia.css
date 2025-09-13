@@ -6,7 +6,7 @@ header img { width: 17%; margin:1%; }
 cite { font-size:3.43vw; margin:-6ex 7em 0; }
 .pagetitres { font-size:2.54ex; margin:4ex auto; text-align:center; }
 
-.boutons { border: thick double #32a1ce; background:pink; font-size:2.43ex; margin:4ex auto; padding:.89ex .98em; width: 27%; }
+#ecrirebouton { border: thick double #32a1ce; background:pink; font-size:2.54ex; margin:5ex auto; padding:.98ex .98em; width: 25%; }
 
 form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
