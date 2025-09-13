@@ -2,7 +2,7 @@ body { background: #7ca83f; color: #20211f; }
 header img { width: 17%; margin:1%; }
 cite, input, textarea, .boutons { display:block; } 
 cite { font-size:3.43vw; margin:-6ex 7em 0; }
-.boutons { border: thick double #32a1ce; background:pink; font-size:2.32ex; margin:4ex auto; padding:.89ex .98em; text-align:center; }
+.boutons { border: thick double #32a1ce; background:pink; font-size:2.32ex; margin:4ex auto; padding:.89ex .98em; text-align:center; width: 17%; }
 
 form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
