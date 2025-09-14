@@ -1,14 +1,16 @@
-body { background: #7ca83f; font-family: Helvetica, Arial, sans-serif; color: #036c3e; }
+body { background: #7ca83f; font-family: Helvetica, Arial, sans-serif; }
 
 header { overflow: hidden; font-family: 'Dancing-Regular'; }
-header img { width: 17%; margin:1%; float: left; }
-header cite { font-size:3.99vw; margin:6ex 7em 0; }
+header img { width: 22%; margin:1%; float: left; }
+header cite { font-size:4vw; margin:7ex 7em 0; }
 
 .pagetitres, .boutons, cite, textarea, header { display:block; text-align:center; }
-.pagetitres { font-size: 2.54ex; margin: 4ex auto; }
+.pagetitres { font-size: 2.5ex; margin: 4ex auto; }
 
-.toformboutons { border-style: inset; display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:4.5ex; margin:5ex auto; padding: 1.43ex 1.21em; color:#f0d6bc; transition: background 0.43s ease; }
-.toformboutons:hover { background-color: #036c3e; border: 2px solid #047a4a; border-radius: 6px; };
+.toformboutons { border-style: outset; display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:4.5ex; margin:3% auto 0; padding: 1.43ex 1.21em; color:#f0d6bc; transition: all 0.5s ease; border-radius: 1%; }
+
+.toformboutons:hover { background-color: #036c3e;  };
+.toformboutons:click { border-style: inset; };
 
 form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
