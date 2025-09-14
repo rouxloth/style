@@ -2,12 +2,12 @@ body { background: #7ca83f; font-family: Helvetica, Arial, sans-serif; color: #0
 
 header { overflow: hidden; font-family: 'Dancing-Regular'; }
 header img { width: 17%; margin:1%; float: left; }
-header cite { font-size:3.98vw; margin:6ex 7em 0; }
+header cite { font-size:3.99vw; margin:6ex 7em 0; }
 
 .pagetitres, .boutons, cite, textarea, header { display:block; text-align:center; }
 .pagetitres { font-size: 2.54ex; margin: 4ex auto; }
 
-.toformboutons { display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:5ex; margin:5ex auto; padding: 1.43ex 1.21em; color:#f0d6bc; border: 5% solid #047a4a; border-radius: 1%; transition: background 0.3s ease; }
+.toformboutons { display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:5ex; margin:5ex auto; padding: 1.43ex 1.21em; color:#f0d6bc; border: 5ex solid #047a4a; border-radius: 1%; transition: background 0.43s ease; }
 
 .toformboutons:hover { background-color: #036c3e; border: 1px solid #047a4a;
   border-radius: 6px; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 2px 4px rgba(0, 0, 0, 0.15) };
