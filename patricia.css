@@ -1,11 +1,13 @@
 body { background: #7ca83f; color: #20211f; font-family: Helvetica, Arial, sans-serif; }
+
 header img { width: 17%; margin:1%; }
-cite { font-size:3.43vw; margin:-6ex 7em 0; }
+cite { font-size:3.54vw; margin:-6ex 7em 0; }
 
 .pagetitres, .boutons, cite, .toformboutons, textarea { display:block; text-align:center; }
 .pagetitres { font-size: 2.54ex; margin: 4ex auto; }
+.toformboutons, cite { font-family: 'Dancing-Regular'; }
 
-.toformboutons { background:#04AA6D; font-size:2.65ex; margin:5ex auto; padding: 1.2ex 1em; width: auto; color:#f0d6bc; cursor: pointer; font-family: 'Dancing-Regular'; }
+.toformboutons { background:#04AA6D; font-size:2.76ex; margin:5ex auto; padding: 1.2ex 1em; width: auto; color:#f0d6bc; cursor: pointer; }
 
 form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
