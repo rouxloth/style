@@ -8,10 +8,11 @@ header cite { font-size:3.98vw; margin:6ex 7em 0; }
 .pagetitres { font-size: 2.54ex; margin: 4ex auto; }
 .toformboutons, cite { font-family: 'Dancing-Regular'; }
 
-.toformboutons { display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:2.87ex; margin:5ex auto; padding: 1.34ex 1.12em; color:#f0d6bc; cursor: pointer; border: 1% solid #047a4a; border-radius: 1%; transition: background 0.3s ease; }
-.toformboutons:hover { background-color: #036c3e; }
+.toformboutons { display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:2.87ex; margin:5ex auto; padding: 1.34ex 1.12em; color:#f0d6bc; border: 1% solid #047a4a; border-radius: 1%; transition: background 0.3s ease; }
 
-form { margin-top:7%; }
+.toformboutons:hover { background-color: #036c3e; background: #04AA6D; border: 1px solid #047a4a;
+  border-radius: 6px; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 2px 4px rgba(0, 0, 0, 0.15); 
+                      form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
 label { font-size: 2.32vw; }
 input, textarea { margin:-2.43ex auto 0; font-size: 1.92vw; width:60%; padding:1%; }
