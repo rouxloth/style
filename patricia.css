@@ -7,7 +7,7 @@ header cite { font-size:4vw; margin:7ex 7em 0; }
 .pagetitres, .boutons, cite, textarea, header { display:block; text-align:center; }
 .pagetitres { font-size: 2.5ex; margin: 4ex auto; }
 
-.toformboutons { border-style: outset; display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:4.5ex; margin:3% auto 0; padding: 1.43ex 1.21em; color:#f0d6bc; transition: all 0.5s ease; border-radius: 1%; }
+.toformboutons { border-style: outset; display: block; width: fit-content; font-weight: bold; background:#04AA6D; font-size:4.5ex; margin:5% auto 0; padding: 1.34ex 1.12em; color:#f0d6bc; transition: all 0.3s ease; border-radius: 2%; }
 
 .toformboutons:hover { background-color: #036c3e;  };
 .toformboutons:click { border-style: inset; };
