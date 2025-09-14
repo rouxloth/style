@@ -1,5 +1,5 @@
 @font-face 
-{ 
-font-family: Dancing-Regular; 
-src: url('Dancing-Regular.ttf');
+{
+  font-family: 'Dancing-Regular';
+  src: url('https://rouxloth.github.io/style/Dancing-Regular.ttf') format('truetype');
 }
