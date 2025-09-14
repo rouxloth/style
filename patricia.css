@@ -5,7 +5,7 @@ cite { font-size:3.43vw; margin:-6ex 7em 0; }
 .pagetitres, .boutons, cite, .toformboutons, textarea { display:block; text-align:center; }
 .pagetitres { font-size: 2.54ex; margin: 4ex auto; }
 
-.toformboutons { background:#04AA6D; font-size:2.54ex; margin:5ex auto; padding: 1ex 1em; width: 25%; color:#f0d6bc; cursor: pointer; font-family: 'Dancing-Regular'; }
+.toformboutons { background:#04AA6D; font-size:2.65ex; margin:5ex auto; padding: 1.2ex 1em; width: auto; color:#f0d6bc; cursor: pointer; font-family: 'Dancing-Regular'; }
 
 form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
