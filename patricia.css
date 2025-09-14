@@ -1,7 +1,7 @@
 .pagetitres, .boutons, cite, .toformboutons, textarea { display:block; text-align:center; }
 .pagetitres { font-size: 2.54ex; margin: 4ex auto; }
 
-.toformboutons { background:#04AA6D; font-size:2.54ex; margin:5ex auto; padding:.98ex .98em; width: 25%; color:#f0d6bc; }
+.toformboutons { background:#04AA6D; font-size:2.54ex; margin:5ex auto; padding: 1ex 1em; width: 25%; color:#f0d6bc; cursor: pointer; font-family: Helvetica, Arial, sans-serif; }
 
 body { background: #7ca83f; color: #20211f; }
 header img { width: 17%; margin:1%; }
