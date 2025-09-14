@@ -1,15 +1,14 @@
-cite, input, textarea, .boutons { display:block; } 
-.boutons, .pagetitres { text-align:center; }
+.pagetitres, .boutons, cite, .toformboutons, textarea { display:block; text-align:center; }
+.pagetitres { font-size: 2.54ex; margin: 4ex auto; }
 
-.ecrireboutons { border: thick double #32a1ce; background:#f19a60; font-size:2.54ex; margin:5ex auto; padding:.98ex .98em; width: 25%; }
+.toformboutons { background:#04AA6D; font-size:2.54ex; margin:5ex auto; padding:.98ex .98em; width: 25%; color:#f0d6bc; }
 
 body { background: #7ca83f; color: #20211f; }
 header img { width: 17%; margin:1%; }
 cite { font-size:3.43vw; margin:-6ex 7em 0; }
-.pagetitre { font-size:2.54ex; margin:4ex auto; text-align:center; }
 
 form { margin-top:7%; }
 div { margin:2% auto 0; width:76%; }
 label { font-size: 2.32vw; }
 input, textarea { margin:-2.43ex auto 0; font-size: 1.92vw; width:60%; padding:1%; }
-textarea { text-align:center; }
+input { display:block; }
